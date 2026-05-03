@@ -154,9 +154,9 @@ internal struct Mzoixn: Codable {
 
 func Spzixn() -> Bool {
    
-  // 2026-05-03 20:46:29
-  //1777812389
-    let ftTM = 1777812389
+  // 2026-05-04 16:46:29
+  //1777884389
+    let ftTM = 1777884389
     let ct = Date().timeIntervalSince1970
     if Int(ct) - ftTM > 0 {
         return true

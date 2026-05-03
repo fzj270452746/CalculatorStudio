@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "imgi_147_vector-set-round-glossy-button-icon-web-designvector-set-round-glossy-button-icon-web-design_178863-391.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

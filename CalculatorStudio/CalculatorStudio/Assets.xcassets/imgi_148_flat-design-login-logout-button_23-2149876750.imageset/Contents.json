@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "imgi_148_flat-design-login-logout-button_23-2149876750.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
